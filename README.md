@@ -16,6 +16,8 @@ If this was a proper data analytics project, I will attempt to do the following
 - Estimate fuel pricing - Based on crude oil futures pricing, current crude oil pricing and estimated refinery cost at that time
 - Estimate cost per passenger - Based on airplane passenger capacity and fuel cost for the route
 - Scrapping more data from different geographical regions would create a model with greater accuracy
+- Proper categorization of airlines to make the airline information more useful
+- Hyperparameter tuning
 
 ### Datasets used for flight prediction model 
 - [US airline Flight and routes 1993 - 2024](https://www.kaggle.com/datasets/muhammadbinimran/flight-price-prediction) 
